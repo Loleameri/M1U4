@@ -35,3 +35,16 @@ p{
    color:green;
    font-family: sans-serif;  
 }
+.destacado{
+    font-weight: bold;
+    font-style: italic;
+}
+body {background-color: rgb(189, 214, 186);
+}
+#aclaracion{
+    width: 200px;
+    background-color: green;
+    color: white;
+    padding: 10px;
+    font-size: 12px;
+}
